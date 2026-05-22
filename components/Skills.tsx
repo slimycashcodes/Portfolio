@@ -84,7 +84,7 @@ export default function Skills() {
         <motion.div
           className="h-full bg-gradient-to-r from-accent to-emerald-400"
           initial={{ width: 0 }}
-          animate={inView ? { width: `${skill.proficiency}%` } : { width: 0 }}
+          
           transition={{ duration: 1, delay: index * 0.05 }}
         />
       </div>
