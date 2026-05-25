@@ -214,7 +214,7 @@ Works with any Node.js hosting:
 
 ## 📄 License
 
-This portfolio is created as a personal project.
+This portfolio is created as a personal side project with the help of Vercel V0 model.
 
 ## 🤝 Contributing
 
